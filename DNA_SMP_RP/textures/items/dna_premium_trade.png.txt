@@ -1,0 +1,21 @@
+DNA_SMP_RP/textures/items/dna_premium_trade.png - Premium DNA Trade Icon
+
+This is a placeholder texture file.
+
+INSTRUCTIONS TO CREATE YOUR OWN PREMIUM DNA TRADE ICON (16x16 PNG):
+
+Visual Design:
+- Draw a dark purple/netherite DNA double helix in the center
+- Use colors: #330066 (dark purple) and #9933FF (light purple)
+- Add dragon wing silhouettes around the helix
+- Add golden/netherite accents
+- Add fire particle effects (orange/red glow at bottom)
+- More elaborate glow effect than upgrade version
+
+Layer by layer (16x16 grid):
+- Rows 2-14: Enhanced DNA helix pattern (thicker, more detailed)
+- Rows 1, 15: Dragon wing accents
+- Rows 13-15: Fire particle glow
+- Corners: Golden corner accents
+
+Export as PNG with transparency.
